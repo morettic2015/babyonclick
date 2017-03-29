@@ -1,0 +1,25 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "br.com.morettic.babyonclick"
+        },
+        "cordova-admob": {
+            "PACKAGE_NAME": "br.com.morettic.babyonclick"
+        },
+        "onesignal-cordova-plugin": {
+            "PACKAGE_NAME": "br.com.morettic.babyonclick"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-connectivity-monitor": {
+            "PACKAGE_NAME": "br.com.morettic.babyonclick"
+        }
+    }
+}
